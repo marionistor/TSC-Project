@@ -2,6 +2,8 @@
 
 OpenBook este un cititor electronic open-source, construit pentru consum mic de energie și versatilitate. Folosește microcontrollerul ESP32-C6-WROOM-1-N8, un ecran e-paper, senzori ambientali, ceas în timp real și stocare extinsă, alimentate de o baterie reîncărcabilă.
 
+![diagram](https://github.com/user-attachments/assets/ff72f70f-2013-443e-a803-44af0556bf68)
+
 ## Bill of Materials
 
 | Componentă | Descriere | Link Achiziție | Documentație |
